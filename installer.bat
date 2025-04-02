@@ -1,1 +1,1 @@
-& '.\Octo_Browser_latest_win.exe' /qn
+& '.\octo.exe' /qn
